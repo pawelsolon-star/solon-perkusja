@@ -1,0 +1,2 @@
+# Przekierowanie starego adresu Netlify na Twoją domenę (301 = na stałe)
+https://solon-drums.netlify.app/* https://solondrums.pl/:splat 301!
